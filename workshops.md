@@ -29,6 +29,14 @@
 - https://www.youtube.com/watch?v=2-1iinCBgsg
 - https://www.youtube.com/watch?v=TPISkLZnndk
 
+Н.Рабчевский:
+
+- https://gnosiseng.com/grammar.gel.html
+- https://github.com/mrabchevskiy/Gel
+- https://agieng.substack.com/p/human-machine-interface
+- https://agieng.substack.com/p/human-machine-interface-ii
+
+
 ### 7 октября - "Несингулярные" представления о понятиях, чем человеческое мышление отличается от животных и ещё 2-3 связанных с этим идеи - Владимир Смолин (уточняется)
 
 *Мы приглашаем спикеров со своими темами!*
